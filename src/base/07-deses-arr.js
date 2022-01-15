@@ -9,15 +9,16 @@ export const retornaArreglo = () =>{
 
 const [ letras, numeros ] = retornaArreglo(); 
 
+
 const usState = ( valor ) => {
     return [ valor, ()=>{ console.log('Hola Mundo') } ];
 }
-
+/* 
 const [ nombre, setNombre ] = usState( 'Goku' );
 
 setNombre();
 
-
+ */
 
 
 

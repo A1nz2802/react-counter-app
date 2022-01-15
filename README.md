@@ -1,14 +1,10 @@
-# CounterApp
+## Temas de la sección
 
-Esta es nuestra primera aplicación de React. Recuerden que si desean ejecutar esta aplicación, deben de reconstruir los módulos de node así:
-
-```
-npm install
-```
-
-Y luego pueden correrlo así
-
-```
-npm start
-```
-
+- Introducción a las pruebas unitarias y de integración
+- Jest - Expect - toBe
+- Jest - toEqual
+- Pruebas unitarias de todos los archivos en /src/base/
+- Pruebas con tareas asíncronas, async/await
+- Pruebas sobre componentes de React
+- Enzyme - Testing unit
+- Simular eventos - Click
